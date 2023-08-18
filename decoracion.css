@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    color: rgb(2, 204, 126);
+    border: 5px solid black;
+    width: 90%;
+    height: 100%;
+    background-color: pink;
+    border-radius: 40px;
+}
+.secundario{
+    visibility: hidden;
+}
+#imagen{
+    width: 100%;
+    height: 500px;
+} 
+#boton{
+    margin-top: 50px;
+}
+#titulo{
+    text-shadow: red 0px 0px 10px;
+    font-size: 50px;
+}
+p{
+    font-family: sans-serif;
+}
+button{
+    background-color: yellow;
+    color: black;
+    border-radius: 30px;
+    border: 3px solid green;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(141, 141, 6);
+    color: rgb(255, 0, 0);
+    border-radius: 30px;
+    border: 3px solid green;
+    width: 110px;
+    height: 110px;
+    font-size: 20px;
+}
+button:active{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 179);
+    border-radius: 30px;
+    border: 3px solid green;
+    width: 80px;
+    height: 80px;
+    font-size: 10px;
+}
+a{
+    color:blueviolet;
+    font-size: 50px;
+}
+a:hover{
+    color:rgb(226, 80, 43);
+    font-size: 50px;
+}
+a:active{
+    color:rgb(255, 0, 200);
+    font-size: 50px;
+}
+.pagina2{
+    margin-top: -850px;
+}
+.pagina1{
+    visibility: hidden;
+}
+.parrafo2{
+    margin-top: -10px;
+}
